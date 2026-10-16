@@ -1,67 +1,78 @@
-# 👋 Olá! Eu sou Carlos Henrique
+<!-- BANNER ANIMADO -->
+<div align="center">
 
-🎓 Estudante de **Sistemas de Informação no IFMG**.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:6C63FF&height=180&section=header&text=Carlos%20Henrique&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informação&descSize=16&descAlignY=58&descColor=C9D1D9" />
 
-Utilizo este perfil para organizar meus estudos, compartilhar atividades acadêmicas e registrar minha evolução na área de tecnologia.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Olá%2C+seja+bem-vindo+ao+meu+perfil!;Estudante+de+Sistemas+de+Informação;Aprendendo+C%2C+C%2B%2B+e+Git;Construindo+meu+futuro+na+tecnologia!" alt="Texto animado" />
+
+</div>
 
 ---
 
-## 📚 Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em Sistemas de Informação
-- 💻 Interesse em programação, desenvolvimento de software e banco de dados
-- 🤖 Experiência acadêmica com Arduino e robótica
-- 🚀 Sempre buscando aprender e desenvolver novos projetos
+Olá! Sou estudante de **Sistemas de Informação** e estou desenvolvendo minhas habilidades em programação, algoritmos e desenvolvimento de software.
 
-## 💻 Linguagens de programação
+- 🎓 Estudante de Sistemas de Informação.
+- 💻 Estudando programação com C e C++.
+- 🧠 Explorando algoritmos e estruturas de dados.
+- 🌱 Aprendendo Git, GitHub e boas práticas de desenvolvimento.
+- 🚀 Organizando meus estudos e projetos para evoluir como desenvolvedor.
 
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+---
 
-## 🌐 Desenvolvimento Web
+## 🛠️ Tecnologias e ferramentas
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<div align="center">
 
-## 🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode&theme=dark" alt="Tecnologias: C, C++, Git, GitHub e VS Code" />
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+</div>
 
-## 🤖 Robótica e Sistemas Embarcados
+---
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
+## 📚 Projetos acadêmicos
 
-## 📖 Organização dos estudos
+Repositórios dedicados aos exercícios e aprendizados da graduação.
 
-- Algoritmos e Estruturas de Dados
-- Programação Orientada a Objetos
-- Banco de Dados
-- Engenharia de Software
-- Redes de Computadores
-- Sistemas Operacionais
-- Desenvolvimento Web
-- Robótica e Automação
+| Repositório | Conteúdos |
+|---|---|
+| [AEDs-I](https://github.com/kcarloshl/AEDs-I) | Exercícios e fundamentos de programação |
+| [AEDs-II](https://github.com/kcarloshl/AEDs-II) | Listas, filas, pilhas e ponteiros |
+| [AEDs-III](https://github.com/kcarloshl/AEDs-III) | Grafos, arquivos e algoritmo de Dijkstra em C++ |
+
+---
 
 ## 📊 Estatísticas do GitHub
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshl&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshl&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais utilizadas" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=kcarloshl&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF" alt="Sequência de contribuições" />
+
+</div>
 
 ---
 
-⭐ *Aprendizado contínuo, prática e evolução.*
+## 📈 Atividade no GitHub
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kcarloshl&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Sempre aprendendo, praticando e evoluindo.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:161B33,100:0D1117&height=100&section=footer" alt="Rodapé decorativo" />
+
+</div>
