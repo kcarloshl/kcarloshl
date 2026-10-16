@@ -51,7 +51,7 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" alt="HTML, CSS, JavaScript e Bootstrap" />
 
 </div>
 
