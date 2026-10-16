@@ -7,11 +7,14 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kcarloshlima/">
-  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" />
+<a href="https://www.linkedin.com/in/carlos-henrique-lima-9ab254440/">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn" />
 </a>
 <a href="https://github.com/kcarloshl">
-  <img src="https://img.shields.io/badge/GitHub-Meus%20estudos-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Meu GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Perfil%20Acadêmico-30363D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Acadêmico" />
+</a>
+<a href="https://github.com/kcarloshlima">
+  <img src="https://img.shields.io/badge/GitHub-Perfil%20Profissional-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profissional" />
 </a>
 
 </div>
@@ -28,7 +31,7 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 - 🗄️ Estudos de bancos de dados com MySQL e PostgreSQL.
 - 🤖 Interesse em Arduino, robótica e sistemas embarcados.
 - 🧠 Explorando algoritmos, estruturas de dados e desenvolvimento de software.
-- 📚 Reunindo exercícios, atividades, trabalhos acadêmicos e projetos pessoais.
+- 📚 Reunindo exercícios, atividades, trabalhos acadêmicos e projetos de estudo.
 
 🚀 **Meu objetivo é evoluir continuamente, aprender novas tecnologias e transformar conhecimento em prática.**
 
@@ -68,7 +71,7 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 
 </div>
 
-### 🔧 Ferramentas
+### 🔧 Ferramentas de desenvolvimento
 
 <div align="center">
 
@@ -80,7 +83,7 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 
 ## 📚 Repositórios acadêmicos
 
-Aqui estão alguns dos repositórios que documentam minha trajetória na graduação.
+Repositórios dedicados aos exercícios, atividades e aprendizados da graduação.
 
 | Repositório | Conteúdos estudados |
 |---|---|
@@ -88,7 +91,7 @@ Aqui estão alguns dos repositórios que documentam minha trajetória na gradua�
 | [AEDs-II](https://github.com/kcarloshl/AEDs-II) | Listas, filas, pilhas e ponteiros |
 | [AEDs-III](https://github.com/kcarloshl/AEDs-III) | Grafos, manipulação de arquivos e algoritmos em C++ |
 
-> 📌 Esta lista será ampliada conforme novos estudos, disciplinas e projetos forem adicionados.
+📌 Esta seção poderá receber novos repositórios de outras disciplinas, linguagens e projetos acadêmicos.
 
 ---
 
@@ -108,7 +111,7 @@ Aqui estão alguns dos repositórios que documentam minha trajetória na gradua�
 
 ---
 
-## 📈 Minha atividade
+## 📈 Minha atividade no GitHub
 
 <div align="center">
 
