@@ -1,4 +1,5 @@
- <!-- BANNER ANIMADO -->
+
+<!-- BANNER ANIMADO -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:6C63FF&height=190&section=header&text=Carlos%20Henrique&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informação&descSize=16&descAlignY=58&descColor=C9D1D9" alt="Banner de Carlos Henrique" />
@@ -26,14 +27,17 @@
 Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para documentar meus aprendizados, compartilhar exercícios acadêmicos e desenvolver minhas habilidades na área de tecnologia.
 
 - 🎓 Estudante de Sistemas de Informação.
-- 💻 Estudos e práticas com C, C++, C# e Java.
-- 🌐 Desenvolvimento web com HTML, CSS e JavaScript.
-- 🗄️ Estudos de bancos de dados com MySQL e PostgreSQL.
+- 💻 Estudos e práticas com C, C++, Java e C#.
+- 🧩 Programação Orientada a Objetos (POO).
+- ⚙️ Desenvolvimento de aplicações com Java Swing e .NET.
+- 🌐 Desenvolvimento web com HTML, CSS, JavaScript e Bootstrap.
+- 🗄️ Estudos de bancos de dados e integração com aplicações.
+- 🧠 Algoritmos, estruturas de dados e padrões de projeto.
 - 🤖 Interesse em Arduino, robótica e sistemas embarcados.
-- 🧠 Explorando algoritmos, estruturas de dados e desenvolvimento de software.
-- 📚 Reunindo exercícios, atividades, trabalhos acadêmicos e projetos de estudo.
+- 🔧 Controle de versão com Git e GitHub.
+- 📚 Organização de exercícios, práticas e projetos acadêmicos.
 
-🚀 **Meu objetivo é evoluir continuamente, aprender novas tecnologias e transformar conhecimento em prática.**
+🚀 **Meu objetivo é evoluir continuamente, transformar conhecimento em prática e desenvolver projetos que contribuam para minha formação como profissional de TI.**
 
 ---
 
@@ -44,6 +48,14 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js&theme=dark" alt="C, C++, C Sharp, Java e JavaScript" />
+
+</div>
+
+### ⚙️ Plataformas e frameworks
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt=".NET e Bootstrap" />
 
 </div>
 
@@ -83,15 +95,19 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 
 ## 📚 Repositórios acadêmicos
 
-Repositórios dedicados aos exercícios, atividades e aprendizados da graduação.
+Repositórios dedicados aos exercícios, atividades, práticas e projetos desenvolvidos durante a graduação em Sistemas de Informação.
 
 | Repositório | Conteúdos estudados |
 |---|---|
+| [Introdução à Programação](https://github.com/kcarloshl/Introducao-a-Programacao) | Fundamentos de programação em C++, estruturas condicionais e de repetição, vetores, matrizes e funções |
+| [Linguagem de Programação I](https://github.com/kcarloshl/Linguagem-de-Programacao-I) | Java, POO, herança, composição, polimorfismo, interfaces, Java Swing, Factory Method e banco de dados |
+| [Linguagem de Programação II](https://github.com/kcarloshl/Linguagem-de-Programacao-II) | C#, .NET e conceitos de programação |
+| [Desenvolvimento Web I](https://github.com/kcarloshl/Desenvolvimento-Web-I) | HTML, CSS, Bootstrap e JavaScript |
 | [AEDs-I](https://github.com/kcarloshl/AEDs-I) | Fundamentos de programação e exercícios em C |
 | [AEDs-II](https://github.com/kcarloshl/AEDs-II) | Listas, filas, pilhas e ponteiros |
 | [AEDs-III](https://github.com/kcarloshl/AEDs-III) | Grafos, manipulação de arquivos e algoritmos em C++ |
 
-📌 Esta seção poderá receber novos repositórios de outras disciplinas, linguagens e projetos acadêmicos.
+📌 Esta seção será atualizada conforme novos repositórios e projetos forem adicionados ao meu percurso acadêmico.
 
 ---
 
