@@ -1,10 +1,9 @@
-
 <!-- BANNER ANIMADO -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:6C63FF&height=190&section=header&text=Carlos%20Henrique&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informação&descSize=16&descAlignY=58&descColor=C9D1D9" alt="Banner de Carlos Henrique" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:6C63FF&height=190&section=header&text=Carlos%20Henrique&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descSize=16&descAlignY=58&descColor=C9D1D9" alt="Banner de Carlos Henrique" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Olá%2C+seja+bem-vindo+ao+meu+perfil!;Estudante+de+Sistemas+de+Informação;Aprendendo+e+praticando+novas+tecnologias;Transformando+conhecimento+em+projetos!" alt="Mensagens animadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Aprendendo+e+praticando+novas+tecnologias;Transformando+conhecimento+em+projetos!" alt="Mensagens animadas" />
 
 <br/>
 
@@ -115,9 +114,9 @@ Repositórios dedicados aos exercícios, atividades, práticas e projetos desenv
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&v=3" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Linguagens mais utilizadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&v=2" alt="Linguagens mais utilizadas" />
 
 <br/><br/>
 
@@ -131,7 +130,7 @@ Repositórios dedicados aos exercícios, atividades, práticas e projetos desenv
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=kcarloshl&bg_color=0D1117&color=58A6FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade no GitHub" />
+<img width="100%" src="https://ghchart.rshah.org/6C63FF/kcarloshl" alt="Gráfico de atividade no GitHub" />
 
 </div>
 
