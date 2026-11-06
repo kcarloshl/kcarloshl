@@ -25,9 +25,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&v=3" alt="Estatísticas do GitHub" />
+<img height="190" src="https://raw.githubusercontent.com/kcarloshl/kcarloshl/main/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Estatísticas do GitHub" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&v=2" alt="Linguagens mais utilizadas" />
+<img height="190" src="https://raw.githubusercontent.com/kcarloshl/kcarloshl/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Linguagens mais utilizadas" />
 
 <br/><br/>
 
