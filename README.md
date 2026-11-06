@@ -21,6 +21,32 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&v=3" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&v=2" alt="Linguagens mais utilizadas" />
+
+<br/><br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=kcarloshl&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF" alt="Sequência de contribuições" />
+
+</div>
+
+---
+
+## 📈 Minha atividade no GitHub
+
+<div align="center">
+
+<img width="100%" src="https://ghchart.rshah.org/6C63FF/kcarloshl" alt="Gráfico de atividade no GitHub" />
+
+</div>
+
+---
+
 ## 👨‍💻 Sobre mim
 
 Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para documentar meus aprendizados, compartilhar exercícios acadêmicos e desenvolver minhas habilidades na área de tecnologia.
@@ -110,29 +136,12 @@ Repositórios dedicados aos exercícios, atividades, práticas e projetos desenv
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Projetos
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kcarloshl&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=8B5CF6&text_color=C9D1D9&rank_icon=github&v=3" alt="Estatísticas do GitHub" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcarloshl&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&v=2" alt="Linguagens mais utilizadas" />
-
-<br/><br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=kcarloshl&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=58A6FF&currStreakLabel=58A6FF" alt="Sequência de contribuições" />
-
-</div>
-
----
-
-## 📈 Minha atividade no GitHub
-
-<div align="center">
-
-<img width="100%" src="https://ghchart.rshah.org/6C63FF/kcarloshl" alt="Gráfico de atividade no GitHub" />
-
-</div>
+| Projeto | Descrição |
+|---|---|
+| [Sistema-Login-Java-MySQL](https://github.com/kcarloshl/Sistema-Login-Java-MySQL) | Tela de login desktop em Java Swing com autenticação via MySQL/JDBC |
+| [Sistema-Funcionarios-Dependentes](https://github.com/kcarloshl/Sistema-Funcionarios-Dependentes) | Sistema de cadastro e gerenciamento de funcionários e dependentes em C++, trabalho prático final de Introdução à Programação |
 
 ---
 
