@@ -1,4 +1,4 @@
-<!-- BANNER ANIMADO -->
+ <!-- BANNER ANIMADO -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B33,100:6C63FF&height=190&section=header&text=Carlos%20Henrique&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descSize=16&descAlignY=58&descColor=C9D1D9" alt="Banner de Carlos Henrique" />
@@ -56,7 +56,9 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 - 🧩 Programação Orientada a Objetos (POO).
 - ⚙️ Desenvolvimento de aplicações com Java Swing e .NET.
 - 🌐 Desenvolvimento web com HTML, CSS, JavaScript e Bootstrap.
-- 🗄️ Estudos de bancos de dados e integração com aplicações.
+- 🖥️ Desenvolvimento backend com Node.js e Express.
+- 🔐 Estudos de autenticação de usuários e gerenciamento de sessões.
+- 🗄️ Bancos de dados relacionais e integração com aplicações.
 - 🧠 Algoritmos, estruturas de dados e padrões de projeto.
 - 🤖 Interesse em Arduino, robótica e sistemas embarcados.
 - 🔧 Controle de versão com Git e GitHub.
@@ -80,7 +82,7 @@ Olá! Sou estudante de **Sistemas de Informação** e utilizo este espaço para 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dotnet,bootstrap&theme=dark" alt=".NET e Bootstrap" />
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap,nodejs,express&theme=dark" alt=".NET, Bootstrap, Node.js e Express" />
 
 </div>
 
@@ -138,10 +140,13 @@ Repositórios dedicados aos exercícios, atividades, práticas e projetos desenv
 
 ## 🚀 Projetos
 
-| Projeto | Descrição |
-|---|---|
-| [Sistema-Login-Java-MySQL](https://github.com/kcarloshl/Sistema-Login-Java-MySQL) | Tela de login desktop em Java Swing com autenticação via MySQL/JDBC |
-| [Sistema-Funcionarios-Dependentes](https://github.com/kcarloshl/Sistema-Funcionarios-Dependentes) | Sistema de cadastro e gerenciamento de funcionários e dependentes em C++, trabalho prático final de Introdução à Programação |
+Projetos desenvolvidos durante os estudos e práticas de programação, envolvendo diferentes linguagens, tecnologias e conceitos de desenvolvimento de software.
+
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| [Portal Universitário](https://github.com/kcarloshl/portal-universitario) | Sistema acadêmico com autenticação de alunos, gerenciamento de sessões e consulta de informações acadêmicas. | Node.js, Express, MySQL, HTML, CSS e JavaScript |
+| [Sistema-Login-Java-MySQL](https://github.com/kcarloshl/Sistema-Login-Java-MySQL) | Tela de login desktop em Java Swing com autenticação via MySQL/JDBC. | Java, Java Swing e MySQL |
+| [Sistema-Funcionarios-Dependentes](https://github.com/kcarloshl/Sistema-Funcionarios-Dependentes) | Sistema de cadastro e gerenciamento de funcionários e dependentes, desenvolvido como trabalho prático final de Introdução à Programação. | C++ |
 
 ---
 
